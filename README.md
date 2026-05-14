@@ -56,17 +56,27 @@ The following machine learning models and analytical approaches were explored th
 ### Correlation Heatmap
 Shows relationships between eviction rates and socioeconomic indicators across New Mexico counties. The analysis revealed moderate relationships between poverty, unemployment, and rental burden, while eviction rate itself showed weaker direct correlations with individual predictors.
 
+![Correlation Heatmap](images/correlation_heatmap.png)
+
 ### Eviction Rate Distribution
 Displays the distribution of county-level eviction rates across New Mexico in 2018. Most counties experienced relatively low-to-moderate eviction rates, while a small number of counties showed significantly higher housing instability.
+
+![Eviction Distribution](images/eviction_rate_distribution.png)
 
 ### Model Comparison by R²
 Compares predictive performance across multiple machine learning models including Linear Regression, Ridge Regression, Decision Tree, and Random Forest. Results demonstrated that eviction prediction is a complex problem with limited predictive power using only socioeconomic variables.
 
+![Model Comparison](images/model_comparison_r2.png)
+
 ### Model Training Time Comparison
 Highlights computational efficiency across the evaluated models. While Random Forest required more processing time than linear models, all models trained quickly due to the relatively small dataset size.
 
+![Training Time](images/model_training_time.png)
+
 ### Random Forest Feature Importance
 Illustrates the relative importance of socioeconomic variables used in eviction risk prediction. Median income and rent burden emerged as the strongest contributing predictors in the Random Forest model.
+
+![Feature Importance](images/random_forest_feature_importance.png)
 
 ## Repository Structure
 
