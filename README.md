@@ -4,6 +4,8 @@
 
 This project analyzes eviction risk patterns using machine learning techniques and socioeconomic datasets related to housing instability, poverty, unemployment, and rental burden. The analysis focuses on identifying factors associated with elevated eviction risk across counties in New Mexico while demonstrating a complete data analytics workflow including preprocessing, exploratory analysis, predictive modeling, and evaluation.
 
+As team leader for this project, I coordinated the analytical workflow, contributed to model development and exploratory analysis, and helped guide the final reporting and interpretation of results.
+
 ## Business Problem
 
 Housing instability and eviction risk remain significant social and economic challenges across many communities. This project was designed to examine how demographic and economic indicators may influence eviction patterns and to develop predictive models capable of identifying regions at higher risk of housing insecurity.
