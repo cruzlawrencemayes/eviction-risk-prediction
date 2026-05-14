@@ -66,7 +66,7 @@ Displays the distribution of county-level eviction rates across New Mexico in 20
 ### Model Comparison by R²
 Compares predictive performance across multiple machine learning models including Linear Regression, Ridge Regression, Decision Tree, and Random Forest. Results demonstrated that eviction prediction is a complex problem with limited predictive power using only socioeconomic variables.
 
-![Model Comparison](images/model_comparison_r2.png)
+![Model Comparison](images/model_comparison_by_r2.png)
 
 ### Model Training Time Comparison
 Highlights computational efficiency across the evaluated models. While Random Forest required more processing time than linear models, all models trained quickly due to the relatively small dataset size.
